@@ -25,4 +25,4 @@ This project is a simple web application developed using HTML and CSS. It helps 
 - README.md
 
 ## Author
-Your Name
+sedeeda
